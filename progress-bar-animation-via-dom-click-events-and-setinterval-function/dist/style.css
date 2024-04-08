@@ -1,0 +1,42 @@
+body
+{
+  background-color: orange;
+  margin-top: 200px;
+  text-align: center;
+}
+
+h3
+{
+  color: white;
+  position: relative;
+  left: 0px;
+  bottom: 150px;
+}
+
+#outerDiv
+{
+  text-align: center;
+  width: 500px;
+  margin: auto;
+  box-shadow: 200px 100px 0em red, -13em -4em 0em olive;
+  border: solid black 5px;
+}
+
+#progressDiv
+{
+  text-align: center;
+  width: 0px;
+  height: 100px;
+  background-color: black;
+}
+
+button
+{
+  left: -350px;
+  bottom: -75px;
+  position: relative;
+  font-size: 15px;
+  border: solid black .5px;
+  border-radius: 5px;
+  padding: 7px;
+}
